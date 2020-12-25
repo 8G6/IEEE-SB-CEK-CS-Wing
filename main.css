@@ -179,7 +179,7 @@ img{
     width: 200px;
     position: absolute;
     top:1000px;
-    bottom: 0px;
+    bottom: 100px;
 }
 .linkbar li:hover{
     transform: scale(1.5);
